@@ -1,6 +1,10 @@
 SDF Encryptor
 =============
 
+## What is this project?
+
+This is a simple project to help changing a SQL Server CE 4.0 database password from empty -> password, password -> new-password, password -> no password.
+
 ## Required
 
 Install SQL Server Compact 4.0 via Microsoft Web Platform Installer SP1
